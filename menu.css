@@ -1,0 +1,90 @@
+content{padding:2em 2em 2em 2em;
+}
+
+
+.cover{background-image: url(/HACKATHONprojpics/junk\ food.avif);
+       height: 12em;
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+.bh1{display:inline-flex;}
+.card{height:fit-content;
+      width:fit-content;
+      padding: 1em 1em 1em 1em;
+}      
+
+.search-and-button{display:inline-flex;}
+
+
+.hostelname{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-left:0.7em;
+}
+
+
+
+      
+
+.card{height: 330px;
+      width:300px;
+      background-color:#b9f4f9;
+      margin: 0.3em 2em 0.3em 2em;
+      border-width: 1px;
+      border-radius:4%;
+
+
+
+
+
+
+}
+
+.Restaurant-name{text-align: center;
+                 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                 font-size:20px;
+                 padding-top: 7em;
+                 margin-bottom: 2em;
+                 margin-top: 6em;
+                 
+
+                 
+}
+.searchtab{display:inline-flex;
+    align-items: center;
+            
+}
+.searchbar{margin:2em 30em 2em 30em;
+           height: 40px;
+           width:400px;
+           font-size:larger;
+    
+}
+#search-button{ margin:0px 0px 0px 0px;
+                border-style: solid;
+                border-color: black;
+                border-width: 1px;
+                margin-left: -70px;
+                height: 40px;
+                width:40px;
+
+
+}
+footer{margin-bottom: 0.5em;
+        margin-top:0.5em;
+        padding:2em 2em 2em 2em;
+        background-color:rgb(25, 25, 25);
+
+}
+#contactus{color:whitesmoke;}
+.fa-brands{font-family:sans-serif;}
+
+@media(hover:hover){
+    .card:hover{
+        box-shadow: 2px 2px 2px 2px rgb(129, 128, 128);
+        transition-delay: 50ms;
+        transition-duration: 100ms;
+    }
+}
+body{
+    background-color: rgb(94, 190, 199);
+}

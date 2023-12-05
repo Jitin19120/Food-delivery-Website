@@ -1,0 +1,31 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.parentcard{
+    height:600px;
+    width: 700px;
+    display:flex;
+    justify-content: center;
+    
+}
+.card1 , .card2 , .card3 , .card4 , .card5 , .card6{
+    height: 80px;
+    width: 500px;
+    margin: 3em 3em 3em 3em;
+    padding: 1em 1em 1em 1em;
+    padding-inline: 30px;
+    justify-content: centers;
+}
+.card1{
+    background-color: #6FB3B8;
+}
